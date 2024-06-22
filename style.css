@@ -48,6 +48,7 @@ main {
     background-image: url(light-mode.png);
     transition: 0, 4s;
     padding: 0px 4px;
+    margin-right: 20px;
 }
 
 .balinha {
@@ -80,6 +81,7 @@ main {
 .dark .tgl--dark {
     background-image: url(dark-mode.png);
     background-position: 0%;
+    margin-right: 20px;
     /* transform: scaleX(-1); */
 }
 
